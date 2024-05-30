@@ -191,6 +191,8 @@ header img{
     display: flex;
     flex-direction: column;
     text-align: center;
+    max-width: 1400px;
+    margin: 0 auto;
 }
 #s3 div{
     display: grid;
