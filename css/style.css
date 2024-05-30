@@ -168,7 +168,7 @@ header img{
     gap: 50px;
 }
 #s2 img{
-    width: 900px;
+    flex: auto;
     height: 355px;
 }
 #s2 article{
